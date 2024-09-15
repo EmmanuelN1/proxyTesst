@@ -1,5 +1,8 @@
 {
-    "redirects": [
-      { "source": "/test", "destination": "https://www.zikoro.com", "permanent": true }
-    ]
-  }
+  "rewrites": [
+    {
+      "source": "/test/:path*",
+      "destination": "https://www.zikoro.com/:path*"
+    }
+  ]
+}
