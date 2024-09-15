@@ -1,5 +1,5 @@
 {
     "redirects": [
-      { "source": "/test", "destination": "https://www.zikoro.com/workspaces?name=orthoEx&logo=null&showCategories=true&showFilter=true", "permanent": true }
+      { "source": "/test", "destination": "https://www.zikoro.com", "permanent": true }
     ]
   }
